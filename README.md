@@ -6,3 +6,7 @@ Build an optimal model that can help us identify bot traffic coming from search 
 
 pandas , numpy , matplotlib , seaborn , pickle, request, tensorflow, sklearn, keras 
 
+# References
+
+- https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/
+
