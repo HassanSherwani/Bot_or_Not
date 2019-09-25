@@ -8,5 +8,6 @@ pandas , numpy , matplotlib , seaborn , pickle, request, tensorflow, sklearn, ke
 
 # References
 
-- https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/
-
+- Evaluation matrics: https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/
+- Model Tuning : https://medium.com/@mohtedibf/indepth-parameter-tuning-for-decision-tree-6753118a03c3
+- ROC_AUC: https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/
