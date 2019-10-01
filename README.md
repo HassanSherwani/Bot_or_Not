@@ -2,6 +2,14 @@
 
 Build an optimal model that can help us identify bot traffic coming from search engines i.e non-human traffic(NHT) and human traffic (HT).
 
+# Content
+
+1- EDA.ipynb (This notebook contains how data has been explored and cleaned)
+
+2- ML_Model.ipynb( This notebook implements couple of machine learning algorithms and then choose most optimal based on problem statement, assumptions, and evaluation matrics)
+
+3- Model_Tuning_Decsion_Tree.ipynb(This notebook applied hyper parameter methods to improve model. Also it evaluates model on different matrics)
+
 # Modules
 
 pandas , numpy , matplotlib , seaborn , pickle, request, tensorflow, sklearn, keras 
