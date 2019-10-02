@@ -10,9 +10,11 @@ Build an optimal model that can help us identify bot traffic coming from search 
 
 3- Model_Tuning_Decsion_Tree.ipynb(This notebook applied hyper parameter methods to improve model. Also it evaluates model on different matrics)
 
+4)- report.pdf: One document to describe my assumptions and key findings out of case study.
+
 # Modules
 
-pandas , numpy , matplotlib , seaborn , pickle, request, tensorflow, sklearn, keras 
+pandas , numpy , matplotlib , seaborn ,sklearn, pickle, request, tensorflow, keras 
 
 # References
 
